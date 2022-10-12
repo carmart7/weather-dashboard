@@ -1,0 +1,16 @@
+ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.city-button {
+    background-color: green;
+    border-color: green;
+    margin-bottom: 15px;
+    width: 100%;
+}
+
+.city-button:hover {
+    background-color: darkgreen;
+    border-color: darkgreen;
+}
